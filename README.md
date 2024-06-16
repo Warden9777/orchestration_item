@@ -29,5 +29,5 @@ Contributing
 Les pull requests sont les bienvenues. Pour les changements majeurs, veuillez ouvrir une issue pour discuter des modifications souhaitées.
 
 
-Auteurs
+Auteurs :
 nolan nabeth 
