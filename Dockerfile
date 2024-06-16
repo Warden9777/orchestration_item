@@ -1,8 +1,0 @@
-FROM mysql:8.2.0
-
-ENV MYSQL_USER=root
-ENV MYSQL_ROOT_PASSWORD=maxmule
-ENV MYSQL_DATABASE=itemsDatabase
-EXPOSE 3306
-
-CMD ["mysqld"]
